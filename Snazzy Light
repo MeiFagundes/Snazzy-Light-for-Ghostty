@@ -1,0 +1,26 @@
+# SPDX-License-Identifier: MIT
+# Snazzy Light terminal palette, adapted from loilo/vscode-snazzy-light.
+# ANSI colors are from the theme's published terminal colors.
+background = #FAFBFC
+foreground = #565869
+cursor-color = #09A1ED
+cursor-text = #FAFBFC
+selection-background = #D6F3E0
+selection-foreground = #565869
+
+palette = 0=#565869
+palette = 1=#FF5C57
+palette = 2=#2DAE58
+palette = 3=#CF9C00
+palette = 4=#09A1ED
+palette = 5=#F767BB
+palette = 6=#13BBB7
+palette = 7=#FAFBF9
+palette = 8=#75798F
+palette = 9=#FFAEAC
+palette = 10=#35CF68
+palette = 11=#F5B900
+palette = 12=#14B1FF
+palette = 13=#FF94D2
+palette = 14=#13BBB7
+palette = 15=#FFFFFF
