@@ -1,0 +1,1 @@
+# Snazzy Light for Ghostty
